@@ -28,7 +28,7 @@ And inside:
 
 Opening this file with HEX editor we can find some interesting info...
 
-<img src="../img/capture.PNG" width="400" height="256" /> 
+<img src="../img/capture.png" width="400" height="256" /> 
 
 First thing to catch is another file called "hi.txt"
 
