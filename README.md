@@ -15,8 +15,11 @@
 
 ## Challenges: 
 
-<img src="../img/misc.png" width="64" height="64" /> 
 <br>
+
+<img src="img/misc.png" width="32" height="32" /> 
+<br>
+
 ### Misc :
 
 * [APPNOTE.TXT](APPNOTE.TXT)
