@@ -13,8 +13,11 @@
 
 <br>
 
-## Challenges:
+## Challenges: 
 
+<img src="../img/misc.png" width="64" height="64" /> 
+<br>
 ### Misc :
 
 * [APPNOTE.TXT](APPNOTE.TXT)
+* [MLSTEAL](MLSTEAL)
